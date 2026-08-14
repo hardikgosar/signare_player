@@ -1,0 +1,36 @@
+{
+  "result": [
+    {
+      "type": "image",
+      "url": "https://images.pexels.com/photos/32417863/pexels-photo-32417863.jpeg",
+      "custom": []
+    },
+    {
+      "type": "video",
+      "url": "https://samplelib.com/mp4/sample-5s-360p.mp4",
+      "custom": []
+    },
+    {
+      "type": "custom",
+      "url": "",
+      "custom": [
+        {
+          "type": "video",
+          "url": "https://samplelib.com/mp4/sample-20s-360p.mp4"
+        },
+        {
+          "type": "image",
+          "url": "https://images.pexels.com/photos/38667897/pexels-photo-38667897.jpeg"
+        },
+        {
+          "type": "image",
+          "url": "https://images.pexels.com/photos/38058187/pexels-photo-38058187.jpeg"
+        },
+        {
+          "type": "image",
+          "url": "https://images.pexels.com/photos/35461871/pexels-photo-35461871.jpeg"
+        }
+      ]
+    }
+  ]
+}
